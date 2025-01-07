@@ -1,4 +1,4 @@
-from question import question
+from question import Question
 import random
 class QCM:
     def __init__(self, questions: list):
