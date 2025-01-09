@@ -2,6 +2,9 @@
 
 # Projet QCM Houtrique Thomas
 
+## Type safety & pep8
+Code conforme à PEP 8 et 100% statiquement typé.
+
 ## Éxecution du script
 ```bash
 python3 main.py
