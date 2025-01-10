@@ -5,6 +5,16 @@
 ## Type safety & pep8
 Code conforme à PEP 8 et 100% statiquement typé.
 
+## build image docker
+```bash
+ docker build -t qcm:latest .
+```
+
+## Execution du programme (Docker)
+```
+docker run -it qcm:latest python3 main.py
+```
+
 ## Éxecution du script
 ```bash
 python3 main.py
